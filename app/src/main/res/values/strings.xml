@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GetTrackExample</string>
+    <string name="track_list_title_text">トラック一覧</string>
+    <string name="title_text">TITLE</string>
+    <string name="duration_text">(DURATION)</string>
+    <string name="album_text">ALBUM</string>
+    <string name="artist_text">ARTIST</string>
+</resources>
